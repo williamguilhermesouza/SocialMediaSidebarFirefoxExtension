@@ -16,7 +16,6 @@
       "default_panel": "sidebar/main.html"
     },
     "permissions": [
-      "*://*",
       "tabs"
     ]
   
